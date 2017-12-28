@@ -10,10 +10,14 @@ rwxrr@rwxrr:~ sudo apt-get install ghc
 
 Example Usage : 
 
-rwxrr@rwxrr:~ ghci 
+rwxrr@rwxrr:~ ghci
+
 GHCi, version 7.6.3: http://www.haskell.org/ghc/  :? for help
+
 Loading package ghc-prim ... linking ... done.
+
 Loading package integer-gmp ... linking ... done.
+
 Loading package base ... linking ... done.
 
 Prelude> :l firstProgram.hs 
