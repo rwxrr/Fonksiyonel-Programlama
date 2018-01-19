@@ -8,7 +8,7 @@ rwxrr@rwxrr:~ sudo apt-get install ghc
 
 
 
-Example Usage : 
+##Example Usage : 
 
 rwxrr@rwxrr:~ ghci
 
@@ -22,8 +22,8 @@ Loading package base ... linking ... done.
 
 Prelude> :l firstProgram.hs 
 
-Main > doubleUs 5 6 
-Main > 61 
+#Main > doubleUs 5 6 
+#Main > 61 
 
 
 
